@@ -1,0 +1,6 @@
+pytest
+pytest-pycodestyle
+requests
+flask
+Numpy
+testfixtures
