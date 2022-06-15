@@ -1,5 +1,5 @@
 ## Grants
-Thank you Prof.Ward and TA Evan to view and test our programs. We spent whole two weeks to build and optimize 
+We spent whole two weeks to build and optimize 
 the server and its relevant documents. We enjoyed the process of cooperatively working in a team as well
 as exploring brand new and pracitcal functionalities. Please feel free to provide any feedback or valueable suggestions
 to the authors.
